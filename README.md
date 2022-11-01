@@ -46,8 +46,7 @@ Junior developer html . css . bootstrap . tailwind css . java script .
   <a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
 <a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
 <a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /></a>
-  <a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
-<a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
+  
 
 
 ## My GitHub Stats
