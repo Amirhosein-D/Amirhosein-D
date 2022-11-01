@@ -1,4 +1,5 @@
 ### Hi there 👋
+====================================================================
 ### My name is Amirhosein derakhshan / I'm a Junior front-end developer...
 
 
@@ -34,18 +35,6 @@
 <h4>
 Junior developer html . css . bootstrap . tailwind css . java script .
   react . vue js . next js . angular . sass & less . vanilla js . jquery js . type script 
-  
-  #
-  
-  <a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
-<a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
-<a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /></a>
-<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=ghm"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </a>
-  <a href="https://lpi.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  /></a> 
-<a href="https://debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a> 
-<a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /></a>
   
 
 
