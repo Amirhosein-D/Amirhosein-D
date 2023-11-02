@@ -1,59 +1,143 @@
-### <Hi there 👋> ):
-# My name is Amirhosein derakhshan / I'm a Junior front-end developer...
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chemistry+Professor!;" />
+</div>
 
-
-<!-- <a href="https://www.twitter.com/Amirhos99071956" target="_blank" rel="noreferrer"><img -->
-<!--                   src="https://img.shields.io/twitter/follow/Amirhos99071956?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
-<!--                 /></a><a href="https://www.github.com/Amirhosein-D" target="_blank" rel="noreferrer"><img -->
-<!--                   src="https://img.shields.io/github/followers/Amirhosein-D?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
-
-                  
-### Skills
-
+<h3 align="left">
+    I am a web designer as well as a web developer. The repositories on this page include site projects or front-end projects and include back-end and database projects. I hope it will be useful for you.
+</h3>
+<h4 align="center">
+    🔭 I’m currently working on **13D** 🌱 I’m currently learning **Asp.net.core** ⚡ Fun fact **I am a Fast Cuber**
+</h2>
+<!--📏LINE-->
 <p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-   <a href="https://sass.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind css" /></a><br/><br/>
-  <a href="https://typescript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Type script" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><br/><br/>
-  <a href="https://react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-      <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://svelte.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-  <a href="https://nodejs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node js" /></a><br/><br/>
-  <a href="https://photoshop.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://aftereffects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Affects" /></a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  
- 
-  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+    <img  white="230em" height="230em" align="center" margin="auto" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+ <img white="230em" height="230em" align="center" margin="auto" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<!-- <img white="230em" align="center" margin="auto" height="230em"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" /> -->
+
+</div>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="80">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="80">
+    </td>
+      <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80">
+    </td>
+     <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="80">
+    </td>
+</tr>
+</table>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chemistryprofessor" alt="chemistryprofessor" /></a> </p>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+    <table align="center">
+        <tr>
+            <td align='center' width="990">
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=8)   
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
+      <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChemistryProfessor&theme=blue-green" alt="chemistryprofessor" />-->
+        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChemistryProfessor&theme=vision-friendly-dark&langs_count=8)
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
+      <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=blue-green" alt="chemistryprofessor" />-->
+        
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ChemistryProfessor&show_icons=true&locale=en&theme=vision-friendly-dark) 
+    </td>
+</tr>
+<tr>
+    <td align='center' width="990">
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/> -->
+        
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChemistryProfessor&theme=dark&background=000000)   
+    </td>
+</tr>
+</table>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walterwhite" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="walterwhite" height="40" width="50" /></a>
+<a href="https://fb.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="13" height="40" width="50" /></a>
+<a href="https://instagram.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13" height="40" width="50" /></a>
+<a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
 </p>
 
-   #                 
- ### Socials
+<!--📏LINE-->
 <p align="center">
-    <a href="https://www.instagram.com/amirhoseinderakshan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/Amirhosein-D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/Amirhos99071956" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/amir-hosein-derakhshan-647967255" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#
-  
-### Biography 📘 
+<p align="center">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"></p>
 
-<h4>
-Junior developer html . css . bootstrap . tailwind css . java script .
-  react . vue js . next js . angular . sass & less . vanilla js . jquery js . type script 
-  
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#
-### My GitHub Stats
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosein-D&theme=dark&langs_count=8)](https://github.com/Amirhosein-D)
-  
-  
-  
-  <h5 align="right"> .... ? life : death ; // ): |: </h5>
-  
-  
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+
+
