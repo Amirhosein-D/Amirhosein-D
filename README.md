@@ -54,20 +54,20 @@
       <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="80">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="80">
     </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80">
     </td>
+</tr>
+<tr>
      <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" width="80">
     </td>
