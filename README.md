@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chemistry+Professor!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirhosein+Derakhshan!;" />
 </div>
 
 <h3 align="left">
@@ -114,13 +114,13 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walterwhite" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="walterwhite" height="40" width="50" /></a>
+<!-- <a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="40" width="50" /></a> -->
+<!-- <a href="https://linkedin.com/in/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walterwhite" height="40" width="50" /></a> -->
+<!-- <a href="https://stackoverflow.com/users/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="walterwhite" height="40" width="50" /></a> -->
 <a href="https://fb.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="13" height="40" width="50" /></a>
 <a href="https://instagram.com/13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="13" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
-</p>
+<!-- <a href="https://www.youtube.com/c/bluedark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bluedark" height="40" width="50" /></a>
+</p> -->
 
 <!--📏LINE-->
 <p align="center">
