@@ -34,7 +34,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="80">
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="80">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80">
