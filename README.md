@@ -6,7 +6,7 @@
     I am a web designer as well as a web developer. The repositories on this page include site projects or front-end projects and include back-end and database projects. I hope it will be useful for you.
 </h3>
 <h4 align="center">
-    🔭 I’m currently working on **13D** 🌱 I’m currently learning **Asp.net.core** ⚡ Fun fact **I am a Fast Cuber**
+    🔭 I’m currently working on **13D** 🌱 I’m currently learning **React** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
 <!--📏LINE-->
 <p align="center">
