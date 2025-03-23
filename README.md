@@ -8,6 +8,7 @@
 <h4 align="center">
     🔭 I’m currently working on **13D** 🌱 I’m currently learning **React** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
+[![roadmap.sh](https://roadmap.sh/card/wide/66a627a8ee6a29a2edc35faf?variant=dark&roadmaps=aspnet-core)](https://roadmap.sh)
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
