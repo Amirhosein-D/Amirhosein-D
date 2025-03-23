@@ -8,7 +8,7 @@
 <h4 align="center">
     🔭 I’m currently working on **13D** 🌱 I’m currently learning **React** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
-[![roadmap.sh](https://roadmap.sh/card/wide/66a627a8ee6a29a2edc35faf?variant=dark&roadmaps=aspnet-core)](https://roadmap.sh)
+
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -107,7 +107,19 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chemistryprofessor" alt="chemistryprofessor" /></a> </p>
 <!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
+
+<table align="center">
+<tr>
+    <td align='center' width="990">
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChemistryProfessor&show_icons=true&locale=en&layout=compact&theme=blue-green"/> -->
+        
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66a627a8ee6a29a2edc35faf?variant=dark&roadmaps=aspnet-core" alt="roadmap.sh"/></a>
+    </td>
+</tr>
+</table> 
+<!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     <table align="center">
         <tr>
@@ -141,7 +153,6 @@
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/walterwhit1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walterwhit1313" height="40" width="50" /></a> -->
 <!-- <a href="https://linkedin.com/in/walterwhite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walterwhite" height="40" width="50" /></a> -->
