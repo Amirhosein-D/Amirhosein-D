@@ -9,10 +9,6 @@
     🔭 I’m currently working on **13D** 🌱 I’m currently learning **React** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
 
-
-
-
-
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
