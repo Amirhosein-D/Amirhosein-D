@@ -10,9 +10,12 @@
 </h2>
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![snake dark gif](https://github.com/PsymoNiko/PsymoNiko/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
+<p align="center">
+  <img src="https://github.com/Amirhosein-D/Amirhosein-D/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</p>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
