@@ -8,6 +8,10 @@
 <h4 align="center">
     🔭 I’m currently working on **13D** 🌱 I’m currently learning **React** ⚡ Fun fact **I am a Fast Cuber**
 </h2>
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![snake dark gif](https://github.com/PsymoNiko/PsymoNiko/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!--📏LINE-->
 <p align="center">
